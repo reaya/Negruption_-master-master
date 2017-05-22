@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b10e01</color>
+    <color name="colorPrimaryDark">#790605</color>
+    <color name="colorAccent">#d41212</color>
+    <color name="splash">#f1f73b</color>
+    <color name="black">#080808</color>
+    <color name="gray">#676b66</color>
+    <color name="cardback">#dcd3e9</color>
+    <color name="blue">#333bae</color>
+
+
+</resources>
